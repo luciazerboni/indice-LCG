@@ -1,6 +1,25 @@
 *{
     margin: 0px;
     padding: 0px;
-    box-sizing:border-box;
     font-family: 'Poppins', sans-serif;
+}
+
+h1{
+    background-color: rgb(15, 117, 149);
+    color: whitesmoke;
+    padding: 30pt;
+}
+
+p{
+    margin-top: 20pt;
+}
+
+li{
+    margin-left: 40pt;
+    line-height: 170%;
+}
+
+a{
+    text-decoration: none;
+    color: black;
 }
